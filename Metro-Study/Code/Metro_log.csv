@@ -1,0 +1,2 @@
+id;project;connector_type;t;delta_t;url;redirect_url;response_size;response_code;success;error
+0;Metroer;requests;1597471880.653763;-0.13943195343017578;https://da.wikipedia.org/wiki/Stationer_p%C3%A5_K%C3%B8benhavns_Metro;https://da.wikipedia.org/wiki/Stationer_p%C3%A5_K%C3%B8benhavns_Metro;113715;200;True;
