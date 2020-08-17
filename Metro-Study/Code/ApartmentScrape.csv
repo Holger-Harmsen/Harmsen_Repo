@@ -1,0 +1,2 @@
+id;project;connector_type;t;delta_t;url;redirect_url;response_size;response_code;success;error
+0;ApartmentScrape;selenium;1597677752.909764;-2.934623956680298;https://www.boliga.dk/salg/resultater?propertyType=3&salesDateMin=1992&street=&municipality=147&page=1&sort=date-d;https://www.boliga.dk/salg/resultater?propertyType=3&salesDateMin=1992&street=&municipality=147&page=1&sort=date-d;787445;;;
