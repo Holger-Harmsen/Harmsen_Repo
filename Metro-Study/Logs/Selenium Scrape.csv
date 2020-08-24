@@ -1,0 +1,3 @@
+id;project;connector_type;t;delta_t;url;redirect_url;response_size;response_code;success;error
+0;Selenium Scrape;selenium;1598261977.727794;-2.55472993850708;https://www.boliga.dk/salg/resultater?propertyType=3&salesDateMin=1992&street=&municipality=101&page=1&sort=date-d;https://www.boliga.dk/salg/resultater?propertyType=3&salesDateMin=1992&street=&municipality=101&page=1&sort=date-d;786473;;;
+1;Selenium Scrape;selenium;1598266989.207058;-2.4669361114501953;https://www.boliga.dk/salg/resultater?propertyType=3&salesDateMin=1992&street=&municipality=147&page=1&sort=date-d;https://www.boliga.dk/salg/resultater?propertyType=3&salesDateMin=1992&street=&municipality=147&page=1&sort=date-d;787563;;;
