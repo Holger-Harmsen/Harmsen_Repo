@@ -2,5 +2,6 @@
 
 Repository containing various for-fun weekend projects, most of which are somewhat related to the field of economics.
 
-'Exam Project', 'Data Project' and 'Inargural Project' are group assignments in the UCPH-course 'Introduction to Programming and Numerical Analysis', coded with Oscar Mason and Emilie Stoejfer.
+Most of the files are assignments and exam projects from the UCPH courses *'Introduction to Programming and Numerical Analysis'* (IPNA) lead by Jeppe Druedahl and *'Introduction to Social Data Science'* lead by David Dreyer-Lassen and Andreas Bjerre-Nielsen.
+
 
